@@ -1,0 +1,5 @@
+numpy
+pandas
+et-xmlfile
+openpyxl
+Telethon==1.24.0
